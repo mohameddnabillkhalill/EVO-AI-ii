@@ -1,0 +1,5 @@
+{
+  "name": "AI Product Photo Studio",
+  "description": "An application that replaces a product in a reference design image with a user's product photo, maintaining the original lighting and perspective, and adds a logo watermark.",
+  "requestFramePermissions": []
+}
